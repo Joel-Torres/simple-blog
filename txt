@@ -1,0 +1,6 @@
+Working on Header and navigation
+    -   Added html
+    -   12/5 
+        -   Add CSS video 21 (done)
+    -   12/7
+        -   cont. styles video 22 ( )
